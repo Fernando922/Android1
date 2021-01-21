@@ -3,7 +3,7 @@ package br.com.dipaulamobilesolutions.agenda.dao;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.dipaulamobilesolutions.agenda.Aluno;
+import br.com.dipaulamobilesolutions.agenda.model.activity.Aluno;
 
 public class AlunoDAO {
 
